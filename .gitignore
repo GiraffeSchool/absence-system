@@ -13,7 +13,6 @@ yarn-error.log*
 
 # Google credentials
 credentials.json
-*.json
 
 # OS files
 .DS_Store
